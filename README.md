@@ -2,9 +2,9 @@
 
 ## ÍNDICE 
 
-* [1. INTRO](#) 😎
-* [2. ¿QUÉ CONSTRUÍ?](#) ⚙
-* [3. OBJETIVO DEL PROYECTO](#) ⚙
+* [1. INTRO](https://github.com/Anita1709/cloninterfazgoogle/edit/main/README.md#1-intro) 😎
+* [2. ¿QUÉ CONSTRUÍ?](https://github.com/Anita1709/cloninterfazgoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD) ⚙
+* [3. OBJETIVO DEL PROYECTO](https://github.com/Anita1709/cloninterfazgoogle/blob/main/README.md#3-objetivo-del-proyecto) ⚙
 
 ****
 
